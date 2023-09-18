@@ -1,6 +1,6 @@
 
-const entradas = [5, 3, 4, 1, 10, 8];
-let index = 1;
+const entradas = [2000, 250];
+let index = 0;
 
 function gets() {
     return entradas[index++];
